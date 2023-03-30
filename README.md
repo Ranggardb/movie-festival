@@ -4,7 +4,8 @@ API from:
 https://www.themoviedb.org/documentation/api
 
 fetch data:
-services/requests.js: list path movie fetcher
+list path movie fetcher: services/requests.js
+
 already fetched on "MovieLists" Components
 
 UI:
